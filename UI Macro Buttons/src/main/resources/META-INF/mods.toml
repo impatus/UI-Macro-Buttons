@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"   # ← 1.20.1 uses 47
+license="MIT"
+
+[[mods]]
+modId="uibuttons"
+version="${mod_version}"
+displayName="UI Macro Buttons"
+description="Add configurable command buttons around inventory & containers."
+authors="Impatus"

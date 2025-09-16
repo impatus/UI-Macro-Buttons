@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: uibuttons
+Specification-Vendor: Impatus
+Specification-Version: 1
+Implementation-Title: UI Macro Buttons
+Implementation-Version: 0.1.0
+Implementation-Vendor: Impatus
+Implementation-Timestamp: 2025-09-09T09:09:23+0200
+
